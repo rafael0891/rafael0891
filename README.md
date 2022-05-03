@@ -9,4 +9,4 @@ I have enough experience using Ubuntu Linux, Apache Web-server, and cloudflare. 
 
 - 🌱 I’m currently learning more about web development using HTML, CSS, Javascript, PHP and MySQL.
 - 💞️ I’m looking to collaborate on websites and web application development
-- 📫 You can reach me @ my email address : rafael50891.rc@gmail.com | rafael50891.dev@gmail.com
+- 📫 You can reach me @ my email address : rafael50891.dev@gmail.com
